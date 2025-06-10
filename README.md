@@ -1,3 +1,5 @@
+🚀 [Live App on Streamlit](https://symptrack.streamlit.app)
+
 # 🫀 SympTrack: AI-Powered Heart Health Insight Tool
 
 SympTrack is an interactive web tool that allows users to input key health metrics and receive an AI-powered heart disease risk insight. Built with Streamlit and a trained logistic regression model on real-world heart disease data.
